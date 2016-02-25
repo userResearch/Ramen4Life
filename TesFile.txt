@@ -1,2 +1,6 @@
 test test test ramen
+<<<<<<< HEAD
 no ramen for me
+=======
+all ramen all day
+>>>>>>> origin/master
